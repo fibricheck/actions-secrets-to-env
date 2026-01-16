@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/Firenza/secrets-to-env#readme",
   "dependencies": {
-    "@actions/core": "^1.6.0"
+    "@actions/core": "^1.9.1"
   },
   "devDependencies": {
     "jest": "^27.3.0"
